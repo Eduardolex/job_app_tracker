@@ -1,0 +1,263 @@
+[
+  {
+    "id": 1,
+    "company": "Auticon",
+    "job_role": "Undisclosed",
+    "status": "Applied",
+    "date_applied": "2025-09-01",
+    "location": "Remote",
+    "source": "Company Website"
+  },
+  {
+    "id": 2,
+    "company": "CharlieHealth",
+    "job_role": "Software Engineer - Full Stack",
+    "status": "Rejected",
+    "date_applied": "2025-09-01",
+    "location": "New York",
+    "source": "Company Website"
+  },
+  {
+    "id": 3,
+    "company": "Rula",
+    "job_role": "Sr. Software Engineer - Core Services (Remote)",
+    "status": "Applied",
+    "date_applied": "2025-09-01",
+    "location": "Remote",
+    "source": "Company Website"
+  },
+  {
+    "id": 4,
+    "company": "Vetcove",
+    "job_role": "Design Engineer",
+    "status": "Applied",
+    "date_applied": "2025-09-01",
+    "location": "Remote",
+    "source": "Company Website"
+  },
+  {
+    "id": 5,
+    "company": "Abridge",
+    "job_role": "Full Stack Engineer",
+    "status": "Applied",
+    "date_applied": "2025-09-01",
+    "location": "San Francisco",
+    "source": "Company Website"
+  },
+  {
+    "id": 6,
+    "company": "Software.Enterprises",
+    "job_role": "Front-End / UI Developer (Mandarin MUST - Will Train - Nationwide)",
+    "status": "Applied",
+    "date_applied": "2025-09-01",
+    "location": "Milpitas, CA",
+    "source": "Indeed"
+  },
+  {
+    "id": 7,
+    "company": "Tools for Humanity",
+    "job_role": "Software Engineer - Platform",
+    "status": "Applied",
+    "date_applied": "2025-09-01",
+    "location": "Munich",
+    "source": "Company Website"
+  },
+  {
+    "id": 8,
+    "company": "Zams",
+    "job_role": "Full Stack Engineer - Front End Focus",
+    "status": "Rejected",
+    "date_applied": "2025-09-02",
+    "location": "Remote",
+    "source": "Company Website"
+  },
+  {
+    "id": 9,
+    "company": "Freed",
+    "job_role": "Software Engineer",
+    "status": "Applied",
+    "date_applied": "2025-09-02",
+    "location": "San Francisco",
+    "source": "Company Website"
+  },
+  {
+    "id": 10,
+    "company": "Birdi Systems, Inc.",
+    "job_role": "Jr. Service Engineer",
+    "status": "Applied",
+    "date_applied": "2025-09-02",
+    "location": "Santa Barbara",
+    "source": "ZipRecruiter"
+  },
+  {
+    "id": 11,
+    "company": "JObs by AllUP",
+    "job_role": "Full Stack Developer",
+    "status": "Applied",
+    "date_applied": "2025-09-03",
+    "location": "San Diego",
+    "source": "LinkedIn"
+  },
+  {
+    "id": 12,
+    "company": "Eagle Eye Technologies",
+    "job_role": "Serena Change Manager Programmer",
+    "status": "Interview Scheduled",
+    "date_applied": "2025-09-03",
+    "location": "Clemson, SC",
+    "source": "Company Website"
+  },
+  {
+    "id": 13,
+    "company": "Apollo Professional Solutions, Inc.",
+    "job_role": "Automation Engineer",
+    "status": "Applied",
+    "date_applied": "2025-09-03",
+    "location": "South San Francisco, CA",
+    "source": "Indeed"
+  },
+  {
+    "id": 14,
+    "company": "Sharp Systems Inc.",
+    "job_role": "Software Engineer (Python Development & Integration)",
+    "status": "Applied",
+    "date_applied": "2025-09-04",
+    "location": "San Diego, CA",
+    "source": "Dice"
+  },
+  {
+    "id": 15,
+    "company": "GALT Aerospace",
+    "job_role": "Mid-Level Software Engineer",
+    "status": "Applied",
+    "date_applied": "2025-09-04",
+    "location": "San Diego, CA",
+    "source": "Indeed"
+  },
+  {
+    "id": 16,
+    "company": "Papa.ai",
+    "job_role": "Software Engineer, Web",
+    "status": "Applied",
+    "date_applied": "2025-09-04",
+    "location": "San Diego",
+    "source": "LinkedIn"
+  },
+  {
+    "id": 17,
+    "company": "AMETEK, Inc.",
+    "job_role": "Software Engineer",
+    "status": "Applied",
+    "date_applied": "2025-09-04",
+    "location": "San Diego",
+    "source": "Company Website"
+  },
+  {
+    "id": 18,
+    "company": "CMC LLC",
+    "job_role": "Junior Developer",
+    "status": "Applied",
+    "date_applied": "2025-09-04",
+    "location": "San Diego",
+    "source": "Company Website"
+  },
+  {
+    "id": 19,
+    "company": "Machina Cognita Technologies",
+    "job_role": "Junior Software Engineer",
+    "status": "Applied",
+    "date_applied": "2025-09-04",
+    "location": "Remote",
+    "source": "LinkedIn Easy Apply"
+  },
+  {
+    "id": 20,
+    "company": "Digitrust",
+    "job_role": "Full Stack Developer",
+    "status": "Applied",
+    "date_applied": "2025-09-04",
+    "location": "Los Angeles",
+    "source": "LinkedIn"
+  },
+  {
+    "id": 21,
+    "company": "LPL Financial",
+    "job_role": "Software Engineer",
+    "status": "Applied",
+    "date_applied": "2025-09-11",
+    "location": "San Diego",
+    "source": "Company Website"
+  },
+  {
+    "id": 22,
+    "company": "Sensor Tower",
+    "job_role": "Full Stack Engineer",
+    "status": "Applied",
+    "date_applied": "2025-09-11",
+    "location": "Culver City",
+    "source": "Company Website"
+  },
+  {
+    "id": 23,
+    "company": "HeyGen",
+    "job_role": "Software Engineer",
+    "status": "Applied",
+    "date_applied": "2025-09-11",
+    "location": "Los Angeles",
+    "source": "Greenhouse"
+  },
+  {
+    "id": 24,
+    "company": "HVCT",
+    "job_role": "Application Developer",
+    "status": "Applied",
+    "date_applied": "2025-09-11",
+    "location": "Remote",
+    "source": "Simplify"
+  },
+  {
+    "id": 25,
+    "company": "LegalZoom",
+    "job_role": "Software Engineer II",
+    "status": "Applied",
+    "date_applied": "2025-09-11",
+    "location": "Los Angeles",
+    "source": "Simplify"
+  },
+  {
+    "id": 26,
+    "company": "Anduril",
+    "job_role": "Full Stack Developer",
+    "status": "Applied",
+    "date_applied": "2025-09-11",
+    "location": "Remote",
+    "source": "Simplify"
+  },
+  {
+    "id": 27,
+    "company": "USC",
+    "job_role": "Programmer Analyst II",
+    "status": "Applied",
+    "date_applied": "2025-09-11",
+    "location": "San Diego",
+    "source": "Simplify"
+  },
+  {
+    "id": 28,
+    "company": "NBCUniversal",
+    "job_role": "SDET Engineer",
+    "status": "Applied",
+    "date_applied": "2025-09-11",
+    "location": "Hollywood",
+    "source": "Simplify"
+  },
+  {
+    "id": 29,
+    "company": "Property Matrix",
+    "job_role": "Entry Level Software Developer",
+    "status": "Applied",
+    "date_applied": "2025-09-27",
+    "location": "Remote",
+    "source": "Indeed"
+  }
+]
